@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello! 👋
+
+My name is Catarina and I am a Computer Science student, in PUC Minas.
+
+🇧🇷 Belo Horizonte, MG - Brazil
 
 <!--
 **catfmcastro/catfmcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
