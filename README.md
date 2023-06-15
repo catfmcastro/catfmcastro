@@ -1,8 +1,12 @@
-## Hello! 👋
+# Hello! 👋
 
 My name is Catarina and I am a Computer Science student, in PUC Minas.
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
+
+## Activity:<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=catfmcastro&theme=radical) -->
 
 <!--
 **catfmcastro/catfmcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
