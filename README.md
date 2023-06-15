@@ -2,7 +2,7 @@
 
 My name is Catarina and I am a Computer Science student, in PUC Minas.
 
-🇧🇷 Belo Horizonte, MG - Brazil
+<img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
 
 <!--
 **catfmcastro/catfmcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
