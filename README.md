@@ -6,8 +6,17 @@
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
 
 ## Activity:<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=catfmcastro&theme=radical) -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catfmcastro&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical"/>
+</div>
+
+
+
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical)-->
 
 <!--
 **catfmcastro/catfmcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
