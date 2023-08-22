@@ -22,7 +22,7 @@ I'm a Computer Science major, currently in the second semester. I am actively se
 ## My Expertise
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,arduino)
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,arduino)
 
 ### Framework & Libraries
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap)
@@ -31,7 +31,7 @@ I'm a Computer Science major, currently in the second semester. I am actively se
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,)
 
 ## Currently learning
-![My Skills](https://skillicons.dev/icons?i=java,py,linux)
+![My Skills](https://skillicons.dev/icons?i=py,linux)
 
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical)-->
