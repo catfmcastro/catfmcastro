@@ -8,6 +8,8 @@ My name is Catarina!
 
 I'm a Computer Science major, currently in the second semester. I am actively seeking new opportunities to apply my skills, collaborate on exciting projects, and continue my journey of learning and growth!
 
+Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.com/in/catarina-f-m-castro-22376a273/)
+
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
 
 ## Activity
@@ -31,7 +33,7 @@ I'm a Computer Science major, currently in the second semester. I am actively se
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,)
 
 ## Currently learning
-![My Skills](https://skillicons.dev/icons?i=py,linux)
+![My Skills](https://skillicons.dev/icons?i=py,linux,docker)
 
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical)-->
