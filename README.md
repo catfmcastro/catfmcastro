@@ -26,7 +26,7 @@ Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,arduino)
 
-### Framework & Libraries
+### Frameworks & Libraries
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap)
 
 ### Tools
