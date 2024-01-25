@@ -6,7 +6,7 @@
 
 My name is Catarina!
 
-I'm a Computer Science major, currently in the second semester. I am actively seeking new opportunities to apply my skills, collaborate on exciting projects, and continue my journey of learning and growth!
+I'm a Computer Science major, currently in the third semester. I am actively seeking new opportunities to apply my skills, collaborate on exciting projects, and continue my journey of learning and growth!
 
 Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.com/in/catarina-f-m-castro-22376a273/)
 
@@ -33,7 +33,7 @@ Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,)
 
 ## Currently learning
-![My Skills](https://skillicons.dev/icons?i=py,linux,docker)
+![My Skills](https://skillicons.dev/icons?i=py,linux,docker,postgres)
 
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catfmcastro&theme=radical)-->
