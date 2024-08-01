@@ -6,7 +6,7 @@
 
 My name is Catarina!
 
-I'm a Computer Science major, currently in the third semester. I am actively seeking new opportunities to apply my skills, collaborate on exciting projects, and continue my journey of learning and growth!
+I'm a Computer Science major, currently in the fourth semester. I am actively seeking new opportunities to apply my skills, collaborate on exciting projects, and continue my journey of learning and growth!
 
 Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.com/in/catarina-f-m-castro-22376a273/)
 
