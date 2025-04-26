@@ -8,7 +8,7 @@ My name is Catarina!
 
 I'm a Computer Science major, currently in the fifth semester. I am actively seeking new opportunities to apply my skills, collaborate on exciting projects, and continue my journey of learning and growth!
 
-Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.com/in/catarina-f-m-castro-22376a273/)
+Reach me at **catfmcastro@gmail.com** and at my [LinkedIn](https://www.linkedin.com/in/catfmcastro/)
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
 
